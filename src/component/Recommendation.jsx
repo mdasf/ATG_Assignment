@@ -1,6 +1,5 @@
-import { recommendedGroups } from "../assets/constants";
-import Login from "./Login";
-import Signup from "./Signup";
+import { recommendedGroups } from "../../public/assets/constants";
+
 function Recommendation() {
   return (
     <div className="max-w-xl mx-auto w-full lg:w-1/5 pt-20">

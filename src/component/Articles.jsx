@@ -1,4 +1,4 @@
-import { cardsData } from "../assets/constants";
+import { cardsData } from "../../public/assets/constants";
 import ArticleItem from "./ArticleItem";
 import Tabs from "./Tabs";
 

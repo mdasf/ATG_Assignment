@@ -12,7 +12,7 @@ function Header() {
 
   return (
     <div className="flex flex-row justify-between px-10 py-4 md:justify-around items-center md:p-2">
-      <img src="./src/assets/images/logo.png" alt="logo" />
+      <img src="/assets/images/logo.png" alt="logo" />
     <div className="hidden max-w-md w-full bg-slate-200 md:flex gap-4 items-center p-2  rounded-full">
         <span>
           <svg
@@ -49,7 +49,7 @@ function Header() {
        <>
       <div className="flex gap-2 items-center"> 
       <div className='rounded-full w-12 h-12 overflow-hidden'>
-         <img src="./src/assets/images/author1.jpeg" alt="author image"  className="w-full h-full object-cover" />
+         <img src="/assets/images/author1.jpeg" alt="author image"  className="w-full h-full object-cover" />
        </div>
        <h3 className="font-semibold">{user}</h3>
        </div>

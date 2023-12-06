@@ -6,7 +6,7 @@ export default {
       backgroundImage: {
         hero: `
         linear-gradient(180deg, rgba(0,0,0,0.2) 0%, rgba(0,0,0,0.6) 80%),
-        url('./src/assets/images/heroImg.jpg')
+        url('/assets/images/heroImg.jpg')
         `,
       },
       fontFamily: {
