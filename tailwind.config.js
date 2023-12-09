@@ -11,6 +11,7 @@ export default {
       },
       fontFamily: {
         sans: ["IBM Plex Sans"],
+        montserrat: ["Montserrat"],
       },
     },
   },

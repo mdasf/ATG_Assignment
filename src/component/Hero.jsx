@@ -1,5 +1,4 @@
 function Hero() {
-  // './src/assets/images/heroImg.jpg'
   return (
     <div className="bg-hero h-[500px] relative">
       <div className="absolute left-1/2 translate-x-[-50%] lg:translate-x-0 lg:left-60 bottom-28  max-w-xl w-[70%] lg:w-[500px] text-white ">
